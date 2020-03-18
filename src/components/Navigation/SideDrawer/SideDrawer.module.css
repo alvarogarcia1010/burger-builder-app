@@ -30,6 +30,8 @@
   transform: translateX(-100%) ;
 }
 
-.Logo{
-  
+.Logo
+{
+    height: 11%;
+    margin-bottom: 32px;
 }
